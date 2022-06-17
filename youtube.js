@@ -14,7 +14,7 @@ setTimeout(() => {
   document.getElementById('guide-button').click();
 }, 100);
 
-// use ` to un-hide recommendations
+// use ` to toggle recommendations
 
 window.addEventListener('keyup', (e) => {
   if (e.keyCode == 192) {

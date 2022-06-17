@@ -1,5 +1,5 @@
 # 🍵 userscripts
-A collection of preloaders to enable custom functionality on web apps
+A collection of preloaders to enable custom functionality for web apps
 
 <br/>
 

@@ -1,5 +1,3 @@
-// --- remove distracting youtube suggestions ---
-
 var primary = document.getElementById('page-manager');
 
 // hide recommendations

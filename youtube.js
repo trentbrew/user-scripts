@@ -15,7 +15,8 @@ setTimeout(() => {
   document.getElementById('guide-button').click();
 }, 100);
 
-// press tick key to un-hide recommendations
+// use ` to un-hide recommendations
+
 window.addEventListener('keyup', (e) => {
   if (e.keyCode == 192) {
     if (primary.style.opacity == '0') {
